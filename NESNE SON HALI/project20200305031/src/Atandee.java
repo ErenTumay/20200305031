@@ -1,0 +1,5 @@
+interface Attendee {
+
+    void markAttendance();
+
+}
